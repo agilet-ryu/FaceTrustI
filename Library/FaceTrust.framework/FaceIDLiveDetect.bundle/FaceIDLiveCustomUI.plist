@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>livenessHomeMotionProcessBarColor</key>
+	<string>0x67DAFFFF</string>
+	<key>livenessHomePromptColor</key>
+	<string>0xFFFFFFFF</string>
+	<key>livenessHomeLoadingPromptColor</key>
+	<string>0xFFFFFFFF</string>
+	<key>livenessHomeMotionPromptColor</key>
+	<string>0xFFFFFFFF</string>
+	<key>cardVideoPromptColor</key>
+	<string>0xFFFFFFFF</string>
+	<key>cardCheckFaceDetetPromptColor</key>
+	<string>0xFFFFFFFF</string>
+	<key>cardVideoProcessBarColor</key>
+	<string>0x67DAFFFF</string>
+	<key>cardVideoTryAgainButtonBorderColor</key>
+	<string>0xFFFFFFFF</string>
+	<key>cardVideoTryAgainButtonColor</key>
+	<string>0xFFFFFF00</string>
+	<key>cardVideoTryAgainButtonPromptColor</key>
+	<string>0xFFFFFFFF</string>
+	<key>cardVideoNextButtonBorderColor</key>
+	<string>0xa30b1aff</string>
+	<key>cardVideoNextButtonColor</key>
+	<string>0xa30b1aff</string>
+	<key>cardVideoNextButtonPromptColor</key>
+	<string>0xFFFFFFFF</string>
+	<key>exitTitlePromptColor</key>
+	<string>0x565759FF</string>
+	<key>exitLeftPromptColor</key>
+	<string>0x0076FFFF</string>
+	<key>exitRightPromptColor</key>
+	<string>0x0076FFFF</string>
+</dict>
+</plist>

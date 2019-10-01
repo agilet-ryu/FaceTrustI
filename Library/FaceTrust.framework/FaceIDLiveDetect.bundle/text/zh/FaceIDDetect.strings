@@ -1,0 +1,34 @@
+/*
+ Localizable.strings
+ FaceIDLiveDetect
+ 
+ Created by Megvii on 2019/7/17.
+ Copyright © 2017年 megvii. All rights reserved.
+ */
+
+"exitLeftPromptText"                 =           "取消";
+"exitRightPromptText"                 =           "确定";
+"exitTitlePromptText"                 =           "确定退出吗？";
+"livenessHomePromptBlinkText"                 =           "请眨眼";
+"livenessHomePromptOpenMouthText"                 =           "请张嘴";
+"livenessHomePromptShakeHeadText"                 =           "请向左或向右缓慢转头";
+"livenessHomePromptNodText"                 =           "请缓慢点头";
+"livenessHomeLoadingPromptPleaseWaitText"                 =           "验证中，请稍后";
+"livenessHomePromptFrontalFaceText" = "请让我看到您的正脸";
+"livenessHomePromptFaceEreaText" = "人脸有效面积太小";
+"livenessHomePromptBrighterText" = "请让光线再亮点";
+"livenessHomePromptDarkerText" = "请让光线再暗点";
+"livenessHomePromptCloserText" = "请再靠近一些";
+"livenessHomePromptFurtherText" = "请离屏幕远一些";
+"livenessHomePromptNoBacklightingText" = "请避免侧光或背光";
+"livenessHomePromptFrontalFaceInBoundingBoxText" = "请将正脸置于取景框内";
+"livenessHomePromptNoEyesOcclusionText" = "请勿遮挡眼睛";
+"livenessHomePromptNoMouthOcclusionText" = "请勿遮挡嘴巴";
+"livenessHomePromptVerticalText" = "请您拿起手机，保持手机垂直";
+"livenessHomePromptStayStillText" = "很好，请保持不动";
+"livenessHomePromptRetryVideo" = "再试一次";
+"cardVideoPromptCardInHandText" = "请拿起卡证，将卡证边缘置于线框内";
+"cardVideoPromptTurnCardText" = "请缓慢转动卡证";
+"cardCheckFaceDetetPromptStayStillText" = "请保持不动";
+"cardVideoNextButtonPromptText" = "下一步";
+

@@ -1,0 +1,34 @@
+/*
+ Localizable.strings
+ FaceIDLiveDetect
+ 
+ Created by Megvii on 2019/7/17.
+ Copyright © 2017年 megvii. All rights reserved.
+ */
+
+"exitLeftPromptText"                 =           "キャンセル";
+"exitRightPromptText"                 =           "確定";
+"exitTitlePromptText"                 =           "終了してもよろしいでしょうか";
+"livenessHomePromptBlinkText"                 =           "まばたきをしてください";
+"livenessHomePromptOpenMouthText"                 =           "口を開けてください";
+"livenessHomePromptShakeHeadText"                 =           "ゆっくりと左右に首を振ってください";
+"livenessHomePromptNodText"                 =           "ゆっくりとうなずいてください";
+"livenessHomeLoadingPromptPleaseWaitText"                 =           "検証中";
+"livenessHomePromptFrontalFaceText" = "正面を見てください";
+"livenessHomePromptFaceEreaText" = "顔を近づけてください";
+"livenessHomePromptBrighterText" = "もう少し明るい場所で撮影してください";
+"livenessHomePromptDarkerText" = "もう少し暗い場所で撮影してください";
+"livenessHomePromptCloserText" = "顔を近づけてください";
+"livenessHomePromptFurtherText" = "顔を離してください";
+"livenessHomePromptNoBacklightingText" = "側面や後方から強い光があたらないようにしてください";
+"livenessHomePromptFrontalFaceInBoundingBoxText" = "顔をフレームに入れてください";
+"livenessHomePromptNoEyesOcclusionText" = "目を隠さないでください";
+"livenessHomePromptNoMouthOcclusionText" = "口を隠さないでください";
+"livenessHomePromptVerticalText" = "端末を垂直にしてください";
+"livenessHomePromptStayStillText" = "動かないでください";
+"livenessHomePromptRetryVideo" = "再撮影";
+"cardVideoPromptCardInHandText" = "本人確認書類を下の枠に入れてください";
+"cardVideoPromptTurnCardText" = "カードの厚みが見えるように側面を撮影してください";
+"cardCheckFaceDetetPromptStayStillText" = "動かないでください";
+"cardVideoNextButtonPromptText" = "次へ";
+
